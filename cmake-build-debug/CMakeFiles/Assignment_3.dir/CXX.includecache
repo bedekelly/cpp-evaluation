@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bede/Programming/C++/Uni/Assignment 3/evalobj.cpp
+iostream
+-
+evalobj.h
+/Users/bede/Programming/C++/Uni/Assignment 3/evalobj.h
+
+/Users/bede/Programming/C++/Uni/Assignment 3/evalobj.h
+
+/Users/bede/Programming/C++/Uni/Assignment 3/evalobjmain.cpp
+string
+-
+assert.h
+-
+iostream
+-
+evalobj.h
+/Users/bede/Programming/C++/Uni/Assignment 3/evalobj.h
+
